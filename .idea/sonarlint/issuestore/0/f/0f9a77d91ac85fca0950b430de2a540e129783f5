@@ -1,0 +1,10 @@
+
+[	java:S125"<This block of commented-out lines of code should be removed.(ƒÉûñÿÿÿÿÿ8À€Œ¼—.
+Z
+java:S1128":Remove this unused import 'ch.qos.logback.classic.Logger'.(™Ğğöøÿÿÿÿ8À€Œ¼—.
+C
+java:S1068"(Remove this unused "name" private field.(Ë¥¼8À€Œ¼—.
+V	java:S125"<This block of commented-out lines of code should be removed.(Ú™³8À€Œ¼—.
+I
+java:S1068".Remove this unused "startMatch" private field.(¸­ËŒ8À€Œ¼—.
+m	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(”Ğ ´

@@ -1,0 +1,16 @@
+
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(”Ğ ´8Ì§ïÓ•.
+M
+java:S1128	"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8 „æô–.
+S
+java:S1128"6Remove this unused import 'akka.actor.typed.ActorRef'.(¾Û©Ù8¶çéó–.
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8 „æô–.
+L
+java:S1481"0Remove this unused "actorSystem" local variable.(©‡Š8˜¦¼—.
+[
+java:S1854"?Remove this useless assignment to local variable "actorSystem".(©‡Š8˜¦¼—.
+Q
+java:S1128"4Remove this unused import 'org.w3c.dom.ls.LSOutput'.(Ò½¾Š8¶çéó–.
+a
+java:S1128"?Remove this unused import 'akka.actor.typed.javadsl.Behaviors'.(ªÍÜŞúÿÿÿÿ8 „æô–.
